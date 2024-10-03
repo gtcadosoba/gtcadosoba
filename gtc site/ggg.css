@@ -1,0 +1,46 @@
+*{
+    margin:Oxp;
+   padding:OXP; 
+   box-sizing: border-box;
+}
+html, body{
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-size:16px;
+    color: rgb(0, 0, 0);
+}
+.container{
+    width:1300px;
+    margin:0px auto;
+}
+.header{
+    background:#86ced4;
+    padding:6px;
+}
+header b{
+    background:#740101;
+color: rgb(226, 16, 16);
+padding:10px;
+font-size:20px;
+}
+header marquee{
+    font-size:20px;
+    color: #643838;
+    width:80px;
+}
+logo{
+    height:60px;
+}
+nav{
+    float:right;
+    padding:25px 0px;
+}
+nav a{
+    color:black;
+    text-decoration:none;
+    font-size:18px;
+    padding:2px 10px;
+    font-weight:500;
+}
+.slider img{
+    width:100%;
+}
